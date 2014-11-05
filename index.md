@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: 冷峰的点滴记录
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -10,16 +10,6 @@ Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.ht
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 ## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
 
 The theme should reference these variables whenever needed.
     
