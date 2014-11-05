@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 冷峰的点滴记录
-tagline: Supporting tagline
+tagline: index
 ---
 {% include JB/setup %}
     
